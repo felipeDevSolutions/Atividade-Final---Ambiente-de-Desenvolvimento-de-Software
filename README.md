@@ -1,7 +1,7 @@
 # Atividade Final - Ambiente de Desenvolvimento de Software
 > Unifor - Universidade de Fortaleza
 >
-> Grupo 41: Felipe, Ricardo, Guilherme, João Victor e Ezequiel
+> Grupo 41: Felipe, Ricardo, Guilherme, João Victor, Vitor e Ezequiel
 
 ### Orientações para o para desenvolvimento da atividade:
 [x] Definir uma equipe de 4 a 6 integrantes, criar um repositório público no GitHub e adicionar os membros da equipe como colaboradores.
