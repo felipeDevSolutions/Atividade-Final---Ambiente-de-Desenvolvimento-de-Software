@@ -32,7 +32,13 @@ public class Faculdade {
     }
 
     // Insira seu método aqui abaixo
-
+    public void listarAlunos() {
+        System.out.println("Alunos na faculdade:\n");
+        for (Aluno aluno : listaAlunos) {
+            System.out.println(aluno.getNome());
+        }
+        System.out.println("--------------------------");
+    }
     // Insira seu método aqui acima
 
     public void adicionarCurso(Curso curso) {
