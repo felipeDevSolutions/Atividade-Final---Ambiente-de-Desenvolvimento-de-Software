@@ -27,7 +27,12 @@ public class Curso {
     }
 
     // Insira seu método aqui abaixo
-
+    public void listarGrupos() {
+        System.out.println("Grupos no curso de " + nome + ":");
+        for (Grupo grupo : grupos) {
+            System.out.println("Grupo " + grupo.getNumeroDoGrupo());
+        }
+    }
     // Insira seu método aqui acima
 
     public String getNome() {
