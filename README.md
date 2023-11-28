@@ -21,14 +21,14 @@
 
 [x] Integrar todo o código produzido no repositório remoto.
 
-[] As classes implementadas devem pertencer a um mesmo contexto e estar diretamente relacionadas.
+[x] As classes implementadas devem pertencer a um mesmo contexto e estar diretamente relacionadas.
 
-[] Mostrar a pasta raiz do projeto no GitHub, incluindo uma lista de commits.
+[x] Mostrar a pasta raiz do projeto no GitHub, incluindo uma lista de commits.
 
 ### Orientações para envio da atividade:
 >
-[] Arquivo enviado deve estar em formato PDF.
+[x] Arquivo enviado deve estar em formato PDF.
 
-[] O arquivo deve ser identificado com o nome completo e matrícula dos integrantes da equipe.
+[x] O arquivo deve ser identificado com o nome completo e matrícula dos integrantes da equipe.
 
-[] O envio deve ser realizado por todos os membros da equipe, para fins de correção.
+[x] O envio deve ser realizado por todos os membros da equipe, para fins de correção.
