@@ -26,7 +26,12 @@ public class Grupo {
     }
 
     // Insira seu método aqui abaixo
-
+    public void listarAlunos() {
+        System.out.println("Alunos no Grupo " + numeroDoGrupo + ":\n");
+        for (Aluno aluno : alunos) {
+            System.out.println(aluno.getNome());
+        }
+    }
     // Insira seu método aqui acima
 
     public int getNumeroDoGrupo() {
