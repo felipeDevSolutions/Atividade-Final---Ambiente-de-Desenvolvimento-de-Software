@@ -18,13 +18,14 @@ public class Main {
 
         // Criar alunos
         Aluno aluno1 = new Aluno("Felipe", 31, curso1);
-        Aluno aluno2 = new Aluno("Ricardo", 35, curso1);
+        Aluno aluno2 = new Aluno("Ricardo", 41, curso1);
         Aluno aluno3 = new Aluno("Guilherme", 25, curso1);
         Aluno aluno4 = new Aluno("João Victor", 23, curso1);
         Aluno aluno5 = new Aluno("Ezequiel", 23, curso1);
         Aluno aluno6 = new Aluno("Eliabe", 23, curso1);
         Aluno aluno7 = new Aluno("Ana", 26, curso1);
         Aluno aluno8 = new Aluno("Abner", 20, curso1);
+        Aluno aluno9 = new Aluno("Vitor", 20, curso1);
 
         // Adicionar alunos à faculdade
         faculdade.adicionarAluno(aluno1);
@@ -35,6 +36,7 @@ public class Main {
         faculdade.adicionarAluno(aluno6);
         faculdade.adicionarAluno(aluno7);
         faculdade.adicionarAluno(aluno8);
+        faculdade.adicionarAluno(aluno9);
 
         // Mostrar nome da faculdade
         System.out.println(faculdade.getNome());
@@ -62,6 +64,7 @@ public class Main {
         aluno3.entrarNoGrupo(grupo1);
         aluno4.entrarNoGrupo(grupo1);
         aluno5.entrarNoGrupo(grupo1);
+        aluno9.entrarNoGrupo(grupo1);
 
         // Adicione o método aqui abaixo
         // Mostrar integrantes do grupo
