@@ -64,7 +64,10 @@ public class Main {
         aluno5.entrarNoGrupo(grupo1);
 
         // Adicione o método aqui abaixo
-
+        // Mostrar integrantes do grupo
+        System.out.println("-----------------------------\n");
+        grupo1.listarAlunos();
+        System.out.println("-----------------------------\n");
         // Adicione o método aqui acima
     }
 }
