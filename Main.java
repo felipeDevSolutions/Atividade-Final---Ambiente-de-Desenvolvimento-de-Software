@@ -69,5 +69,8 @@ public class Main {
         grupo1.listarAlunos();
         System.out.println("-----------------------------\n");
         // Adicione o método aqui acima
+
+        // Professor dá a nota para a equipe
+        professor1.darNota(0, grupo1);
     }
 }
