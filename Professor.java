@@ -27,7 +27,12 @@ public class Professor {
     }
 
     // Insira seu método aqui abaixo
-
+    public void listarAlunos(List<Aluno> alunos) {
+        System.out.println("Alunos do Professor " + nome + ":");
+        for (Aluno aluno : alunos) {
+            System.out.println(aluno.getNome());
+        }
+    }
     // Insira seu método aqui acima
 
     public void listarGrupos(List<Grupo> grupos) {
