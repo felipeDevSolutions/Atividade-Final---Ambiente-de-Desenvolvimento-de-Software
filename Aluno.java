@@ -48,7 +48,9 @@ public class Aluno {
     }
 
     // Insira seu método aqui abaixo
-
+    public void sairDoGrupo(Grupo grupo) {
+        grupo.alunoSaiDoGrupo(this);
+    }
     // Insira seu método aqui acima
 
 }
